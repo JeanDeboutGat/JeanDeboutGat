@@ -3,11 +3,10 @@
 <p align="left">Welcome to my GitHub profile! I'm a passionate software engineer, always ready to explore new horizons.</p>
 
 ### A Bit About Me
-- 🔍 Exploring the world of technology 
-- 💻 Coding is where my creativity flows
-- 🏀 Basketball enthusiast and player
-- 🏊 Love taking a plunge into the pool
-- 🧗 Climbing to new heights in both code and mountains
+- 💻 
+- 🏀 
+- 🏊
+- 🧗
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jean-debout-gatari-7b5b3b1a0/).
 
