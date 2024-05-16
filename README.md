@@ -1,14 +1,12 @@
 
 <h1 align="left">Hey there! 👋</h1>
-<p align="left">Welcome to my GitHub profile! I'm a passionate software engineer, always ready to explore new horizons.</p>
+<p align="left">Welcome to my GitHub profile!</p>
 
 ### A Bit About Me
 - 💻 
 - 🏀 
 - 🏊
 - 🧗
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/jean-debout-gatari-7b5b3b1a0/).
 
 <h2 align="left">Tech Stack</h2>
 
@@ -29,8 +27,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jean-debout-gatar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="NestJS logo" />
 </div>
-
-I believe in constantly learning and adapting.
 
 Feel free to explore my repositories and get in touch. Let's collaborate and make the tech world even more exciting! 🚀
 
