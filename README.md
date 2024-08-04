@@ -3,11 +3,7 @@
 <p align="left">Welcome to my GitHub profile!</p>
 
 ### A Bit About Me
-- 💻 
-- 🏀
-- 🏋
-- 🏊
-- 🧗
+ 💻 🏀 🏋 🏊 🧗
 
 <h2 align="left">Tech Stack</h2>
 
